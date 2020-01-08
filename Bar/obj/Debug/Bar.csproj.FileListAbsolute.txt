@@ -1,0 +1,50 @@
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Categoria.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.corteCaja.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.IngresoInventario.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.inicialCaja.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Inventario.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Login.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Pago.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Parametros.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Principal.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Productos.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Properties.Resources.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.retiroCaja.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Roles.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.tecladoNum.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Usuarios.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.Ventas.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.ventasDia.resources
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.csproj.GenerateResource.Cache
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\getronics\Documents\Visual Studio 2008\Projects\Bar\Bar\obj\Debug\Bar.pdb
+D:\PERSONAL\proyectos\Bar\Bar\bin\Debug\Bar.exe.config
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.exe
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.pdb
+D:\PERSONAL\proyectos\Bar\Bar\bin\Debug\Bar.exe
+D:\PERSONAL\proyectos\Bar\Bar\bin\Debug\Bar.pdb
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Categoria.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.corteCaja.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.IngresoInventario.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.inicialCaja.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Inventario.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Login.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Pago.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Parametros.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Principal.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Productos.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Properties.Resources.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.retiroCaja.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Roles.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.tecladoNum.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Usuarios.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.Ventas.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.ventasDia.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.csproj.GenerateResource.Cache
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.BarraVenta.resources
+D:\PERSONAL\proyectos\Bar\Bar\obj\Debug\Bar.ingreseNombreCliente.resources
